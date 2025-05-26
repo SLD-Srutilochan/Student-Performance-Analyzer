@@ -1,1 +1,3 @@
 # Student-Performance-Analyzer
+
+The Student Performance Analyzer is a Python and Streamlit-based machine learning web app that analyzes student scores, predicts academic outcomes, and provides insights for educators. Using a dataset with subject-wise marks, it preprocesses data and applies models like Linear Regression and Decision Trees via scikit-learn, evaluated using accuracy, precision, recall, and F1-score. The app features an interactive interface for inputting scores, calculating averages, displaying pass/fail status (40% threshold), and visualizing performance trends. It helps identify key success factors and supports data-driven educational decisions. Future enhancements include advanced models, broader datasets, and personalized recommendations.
